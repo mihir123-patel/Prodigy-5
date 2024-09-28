@@ -1,0 +1,9 @@
+Important libraries of python
+the dataset is to large to upload i will add the link of the dataseet
+(https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
+pandas
+seaborn 
+matplotlib
+%matplotlib inline
+folium
+from folium.plugins import MarkerCluster
